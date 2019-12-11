@@ -39,6 +39,7 @@ background-color: #511c66;
     font-size:15px;
     text-transform: uppercase;
     margin-top: 20px;
+	  transition: all 0.4s ease;
 }
 .btn:hover{
  border-bottom: 5px solid transparent;
@@ -188,7 +189,7 @@ border-bottom: 5px solid #4d1515;
     box-shadow: 2px 5px 3px #1e1a1a8c;
    
 }
-.team:hover{
+.skill:hover{
 	background: #d3cece8c;
 }
 .skill h2{
